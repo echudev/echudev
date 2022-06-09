@@ -1,16 +1,13 @@
-### Soy Ezequiel, desarrollador front-end freelance👨‍💻
+### Hola! 😁 Soy Ezequiel, desarrollador front-end freelance👨‍💻
   
-
 - 🔭Actualmente trabajo en un proyecto personal con React.js  
-  
 - 🌱 Aprendiendo node.js/mongoDB  
-  
-
 <br/>  
 
-
-## Lenguajes y Herramientas
-<table><tr><td>
+### My Stack
+<table>
+  <tr>
+    <td>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
@@ -25,7 +22,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
   </div>
-</td></tr></table>  
-
-## Github Stats  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=echudev&theme=tokyonight_duo)](https://git.io/streak-stats)
+</td>
+  </tr>
+</table>  
