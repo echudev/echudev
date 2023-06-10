@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ezequiel</h1>
-<h3 align="center">A passionate frontend developer and crypto enthusiast from Buenos Aires, Argentina</h3>
+<h1 align="center">Hola! 👋</h1>
+<h3 align="center">Te invito a que chusmees mis proyectos y si te sirven y/o gusta alguno podes demostrarmelo dejandole una estrellita! :)</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
