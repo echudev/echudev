@@ -13,8 +13,8 @@ I am a software developer based in Buenos Aires, Argentina, who is passionate ab
 <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
 <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-593d88.svg?logo=redux&logoColor=white"></a>
-<a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Next.js-1b1b1b?logo=nextdotjs&logoColor=white"></a>
-<a href="#"><img alt="Material UI" src="https://img.shields.io/badge/Material ui-0081CB.svg?logo=material-ui&logoColor=white"></a>
+<a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-1b1b1b?logo=nextdotjs&logoColor=white"></a>
+<a href="#"><img alt="MaterialUI" src="https://img.shields.io/badge/MaterialUI-%23007FFF?logo=mui&logoColor=white"></a>
 <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-38B2AC.svg?logo=tailwind-css&logoColor=white"></a>
 <h3>Backend Technologies</h3>
 <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
