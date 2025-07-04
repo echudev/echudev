@@ -1,3 +1,3 @@
 <h2 align="left"></h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=echudev&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="marandae" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=echudev&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="echudev" /></p>
+<p<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=echudev&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="echudev's GitHub Stats" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=echudev&theme=tokyonight&show_icons=true&hide_border=true&count_private=false" alt="echudev's GitHub Stats" /></p>
